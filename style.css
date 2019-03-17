@@ -29,10 +29,12 @@ body{
 }
 .MJ li{
     text-decoration: underline;
+    text-align: left;
 
 }
 .JM li{
     text-decoration: underline;
+    text-align: left;
 }
 .current{
     background-color: yellow;
