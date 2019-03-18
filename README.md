@@ -16,5 +16,5 @@ You can always reach me in my email or phone number.
 *email: Jmuema95@gmail.com
 *phone number: 0706641789
 Copyright (c).
-licensed under the [MIT License](License).
+licensed under the [MIT License}(License).
   
