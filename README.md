@@ -3,6 +3,7 @@
 #### By Joseph Muema Mwangangi
 ## Description
 This is a taste of the work Ihave done and what I can do. From this you willbe able to get an i idea of who I am. In here you will also get to see my educational background. You will also get to see the few places I got a chance to work. Also within the same portfolio you will be able to see the skills that I have aquired through the years oh and also my hobbies if you want to know me well.    
+Here is a link to my live site https://jmuema.github.io/Muemasportfolio/
 ## Setup/Installation Requirements
 This are the files you expect to see in my various sites posted; 
 * The html file that contains the webpage
